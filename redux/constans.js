@@ -1,0 +1,8 @@
+const Constans = {
+  COINS_DATA: 'COINS_DATA',
+  GET_COIN_DETAILS: 'SHOW_COIN_DETAILS',
+  HIDE_COIN_DETAILS: 'HIDE_COIN_DETAILS',
+
+}
+
+export default Constans
